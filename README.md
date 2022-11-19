@@ -4,6 +4,10 @@
 <img src="preview.jpg" alt="preview"/>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br>
+
+follow link <a href="https://next-js-dashboard-layouts.vercel.app/">https://next-js-dashboard-layouts.vercel.app/</a>
+check preview
 
 ## Getting Started
 
